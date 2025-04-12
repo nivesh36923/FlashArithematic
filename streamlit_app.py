@@ -9,7 +9,7 @@ st.title("🧠 Flash Arithmetic Game")
 levels = {
     "Easy": {"count": 3, "min": 1, "max": 9, "speed": 1.0},
     "Medium": {"count": 5, "min": 1, "max": 20, "speed": 0.7},
-    "Hard": {"count": 7, "min": 10, "max": 50, "speed": 0.5}
+    "Hard": {"count": 7, "min": 10, "max": 50, "speed": 1.0}
 }
 
 # Select difficulty level
